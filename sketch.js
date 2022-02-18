@@ -22,7 +22,7 @@ function draw() {
     // obstacle
     rx = width/2;
     ry = height/2;
-    rw = width/3-20;
+    rw = width/3-100;
     rh = 20;
     noStroke();
     fill(255);
